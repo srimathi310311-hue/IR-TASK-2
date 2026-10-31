@@ -1,0 +1,12 @@
+Dataset: 20 Newsgroups
+Selected categories:
+- comp.graphics
+- rec.sport.baseball
+- sci.med
+- talk.politics.misc
+
+Total documents: 3732
+Training documents: 2799
+Testing documents: 933
+
+The dataset is a collection of discussion-group messages grouped by subject.

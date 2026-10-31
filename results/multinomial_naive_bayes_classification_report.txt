@@ -1,0 +1,10 @@
+                    precision    recall  f1-score   support
+
+     comp.graphics       0.91      0.94      0.92       243
+rec.sport.baseball       0.86      0.95      0.90       248
+           sci.med       0.91      0.89      0.90       248
+talk.politics.misc       0.98      0.84      0.90       194
+
+          accuracy                           0.91       933
+         macro avg       0.91      0.90      0.91       933
+      weighted avg       0.91      0.91      0.91       933

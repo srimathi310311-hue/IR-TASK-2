@@ -1,0 +1,8 @@
+IR_ML_Algorithm_Comparison_Project/
+|-- main.py
+|-- requirements.txt
+|-- README.md
+|-- .gitignore
+|-- run_project.bat
+|-- PROJECT_STRUCTURE.txt
+|-- results/                 (generated after running main.py)
